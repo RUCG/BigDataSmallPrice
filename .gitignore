@@ -1,1 +1,6 @@
 .env
+.DS_Store
+*.pyc
+*.log
+*.parquet
+*.csv
